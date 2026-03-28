@@ -1,1 +1,1 @@
-# AST205 - Astronomía-Computacional
+# AST205 - Astronomía Computacional
